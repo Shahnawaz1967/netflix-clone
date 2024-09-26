@@ -47,7 +47,7 @@ Here are some screenshots of the Netflix clone:
 - **first**: npm run build
 - **second**: npm run start
 ### Links of projects
-- **Deployed Links**   :    
-- **Repository Links** :
+- **Deployed Links**   : [https://netflix-clone-1-gquj.onrender.com/]
+- **Repository Links** : [https://github.com/Shahnawaz1967/netflix-clone.git]
 - **Video Links**      :
 
