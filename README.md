@@ -33,14 +33,23 @@ Welcome to my Netflix clone project, This application is created using the MERN 
 
 Here are some screenshots of the Netflix clone:
 
-![Home Page]()
-*Home Page of the Netflix Clone*
+**Home Page without Login**
+![Home page without login](![netflix page without login](https://github.com/user-attachments/assets/650c41ea-bc80-4770-902f-7a2a874f607a)
+)
+**Home Page with Login**
+![Home page with login](https://github.com/user-attachments/assets/62f0c07b-e4fa-4bff-8331-d6397b17db72)]
 
-![Movie Listings]()
-*Movie Listings Page*
+**Lists Of Movies**
+![Lists of Movies](https://github.com/user-attachments/assets/869b3243-8287-419a-a61e-1aae3cd808ff)]
 
-![Watch List]()
-*User Watch List*
+
+**single Movies**
+![SingleMovies](https://github.com/user-attachments/assets/db546e38-8515-417e-822e-f5464f4998b1)]
+
+
+**similar Movies**
+![Similar movies](https://github.com/user-attachments/assets/1474ef36-771e-4f74-bc65-ff6e0e6c4c56)]
+
 
 ### How to start Projects
 
