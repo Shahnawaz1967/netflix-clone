@@ -39,3 +39,8 @@ app.listen(PORT, () => {
 	
 });
 export default app;
+
+// cross-env NODE_ENV=development
+// cross-env NODE_ENV=production
+
+// "build": "npm install && npm install --prefix frontend && npm run build --prefix frontend"
