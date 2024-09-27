@@ -13,11 +13,13 @@ import { protectRoute } from "./middleware/protectRoute.js";
 
 const app = express();
 
+
 const PORT = ENV_VARS.PORT;
 const __dirname = path.resolve();
 
 app.use(express.json()); // will allow us to parse req.body
 app.use(cookieParser());
+connectDB();
 
 app.use("/api/v1/auth", authRoutes);
 app.use("/api/v1/movie", protectRoute, movieRoutes);
@@ -34,5 +36,6 @@ if (ENV_VARS.NODE_ENV === "production") {
 
 app.listen(PORT, () => {
 	console.log("Server started at http://localhost:" + PORT);
-	connectDB();
+	
 });
+export default app;
